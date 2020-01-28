@@ -7,14 +7,12 @@
 1.  Clone the repo:
 
     ## SSH:
-
         ```
         git@github.com:walaamedhat/just4media.git
         ```
         
     
     ## HTTPS:
-    
         ```
         https://github.com/walaamedhat/just4media.git
         ```
